@@ -2,5 +2,6 @@
 
 int main()
 {
-	write(1, "Hello World!", 12);
+	printf("Hello World!");
+	printf("Hello Everyone!");
 }
